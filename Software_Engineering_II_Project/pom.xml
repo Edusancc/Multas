@@ -26,5 +26,6 @@
   	<module>Opening_Record</module>
   	<module>Punish_the_Driver</module>
   	<module>Sanctions_Payment</module>
+  	<module>Owners_Change</module>
   </modules>
 </project>
